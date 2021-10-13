@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+      "name": "Replace Tire",
+      "price": 2000,
+      "time": 2,
+      "img": "https://i.ibb.co/12cQT8g/1.jpg",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat nisi dolorum laborum ullam, qui ipsa nesciunt corrupti fugiat vero nemo hic consectetur! Voluptate a totam optio tenetur tempora sunt illum."
+    },
+    {
+        "id" : 2,
+      "name": "Matchine Change",
+      "price": 2000,
+      "time": 3,
+      "img": "https://i.ibb.co/fp63MG8/2.jpg",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat nisi dolorum laborum ullam, qui ipsa nesciunt corrupti fugiat vero nemo hic consectetur! Voluptate a totam optio tenetur tempora sunt illum."
+    },
+    {
+        "id" : 3,
+      "name": "Pouring Oil",
+      "price": 2000,
+      "time": 1,
+      "img": "https://i.ibb.co/7jxQGF8/3.jpg",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat nisi dolorum laborum ullam, qui ipsa nesciunt corrupti fugiat vero nemo hic consectetur! Voluptate a totam optio tenetur tempora sunt illum."
+    },
+    {
+        "id" : 4,
+      "name": "Change Cable",
+      "price": 2000,
+      "time": 1,
+      "img": "https://i.ibb.co/pWY61v6/4.jpg",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat nisi dolorum laborum ullam, qui ipsa nesciunt corrupti fugiat vero nemo hic consectetur! Voluptate a totam optio tenetur tempora sunt illum."
+    },
+    {
+        "id" : 5,
+      "name": "Starting Machine",
+      "price": 2000,
+      "time": 2,
+      "img": "https://i.ibb.co/gWjLfSX/5.jpg",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat nisi dolorum laborum ullam, qui ipsa nesciunt corrupti fugiat vero nemo hic consectetur! Voluptate a totam optio tenetur tempora sunt illum."
+    },
+    {
+        "id" : 6,
+      "name": "Clean Tools",
+      "price": 2000,
+      "time": 1,
+      "img": "https://i.ibb.co/mcKc4FH/6.jpg",
+      "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat nisi dolorum laborum ullam, qui ipsa nesciunt corrupti fugiat vero nemo hic consectetur! Voluptate a totam optio tenetur tempora sunt illum."
+    }
+  ]
