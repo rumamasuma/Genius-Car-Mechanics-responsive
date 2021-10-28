@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './Service.css';
 
 const Service = (props) => {
-    const {id, name, img, price, time,description} = props.service;
+    const {_id, name, img, price, time,description} = props.service;
 
     return (
         
@@ -14,7 +14,7 @@ const Service = (props) => {
            <h4>Price: $ {price}</h4>
            <h5>Time required : {time} hours</h5>
            <p className='p-3'>{description}</p>
-           <Link to = {`/booking/${id}`}>
+           <Link to = {`/booking/${_id}`}>
            <button  className='btn-primary rounded'>Book for {name.toLowerCase()}</button>
            </Link>
          </div>
